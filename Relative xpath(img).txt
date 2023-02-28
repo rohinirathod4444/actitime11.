@@ -1,0 +1,15 @@
+                  Relative xpath for img
+
+
+//div[2]/div/div/div[1]/a/div[1]/div/img(Grocery)
+//div[2]/div/div/div[2]/a/div[1]/div/img(Mobile)
+//div[2]/div/div/div[3]/a/div[1]/div/img(Fashion)
+//div[2]/div/div/div[4]/a/div[1]/div/img(Electronics)
+//div[2]/div/div/div[4]/a/div[1]/div/img(Home)
+//div[2]/div/div/div[6]/a/div[1]/div/img(Appliances)
+//div[2]/div/div/div[6]/a/div[1]/div/img(Travel)
+//div[2]/div/div/div[8]/a/div[1]/div/img(Top Offers)
+//div[2]/div/div/div[9]/a/div[1]/div/img(Beauty, Toys & More)
+//div[2]/div/div/div[10]/a/div[1]/div/img(Two Wheelers)
+
+
