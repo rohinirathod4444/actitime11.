@@ -1,0 +1,14 @@
+            Absolute xpath for img
+
+
+
+/html/body/div/div/div[2]/div/div/div[1]/a/div[1]/div/img(Grocery)
+/html/body/div/div/div[2]/div/div/div[2]/a/div[1]/div/img(Mobile)
+/html/body/div/div/div[2]/div/div/div[3]/a/div[1]/div/img(Fashion)
+/html/body/div/div/div[2]/div/div/div[4]/a/div[1]/div/img(Electronics)
+/html/body/div/div/div[2]/div/div/div[5]/a/div[1]/div/img(Home)
+/html/body/div/div/div[2]/div/div/div[7]/a/div[1]/div/img(Travel)
+/html/body/div/div/div[2]/div/div/div[8]/a/div[1]/div/img(Top offers)
+/html/body/div/div/div[2]/div/div/div[9]/a/div[1]/div/img(Beauties)
+/html/body/div/div/div[2]/div/div/div[10]/a/div[1]/div/img(Two Whilers)
+/html/body/div/div/div[2]/div/div/div[6]/a/div[1]/div/img(Applicans)
